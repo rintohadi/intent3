@@ -1,7 +1,9 @@
 # intent3<h1>
 #Screenshoot Aplikasi<h1>
-![Gambar 1](http://imageshack.com/a/img922/3535/AYV5Z3.jpg)![Gambar 2](http://imageshack.com/a/img923/5680/PbDnvg.jpg)
-![Gambar 3](http://imageshack.com/a/img924/4614/GlvlRe.jpg)![Gambar 4](http://imageshack.com/a/img923/5910/7Uz5JX.jpg)
+![Gambar 1](http://imageshack.com/a/img922/3535/AYV5Z3.jpg)
+![Gambar 2](http://imageshack.com/a/img922/6206/f9AfS0.jpg)
+![Gambar 3](http://imageshack.com/a/img924/4614/GlvlRe.jpg)
+![Gambar 4](http://imageshack.com/a/img923/5910/7Uz5JX.jpg)
 ![Gambar 5](http://imageshack.com/a/img922/5471/1F52Vw.jpg)
 #Identitas<h1>
 1. Nama : Muhammad Rintohadi Prawiro
